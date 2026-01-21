@@ -1,9 +1,9 @@
 // Site constants and configuration
 export const siteConfig = {
-  name: "Seajay Media",
-  description: "Digital agency specializing in social media, web development, and AI automation",
-  url: "https://seajaymedia.com",
-  email: "hello@seajaymedia.com",
+  name: "Sea Jay Media",
+  description: "Websites, Web Apps, AI Chatbots & More — Tailored for small businesses, startups, and free spirits",
+  url: "https://seajay-media.com",
+  email: "hello@seajay-media.com",
   languages: ["German", "English", "Polish", "Greek"] as const,
 };
 
